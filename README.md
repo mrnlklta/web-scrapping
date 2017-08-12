@@ -1,3 +1,2 @@
 # web-scrapping
-Web Scapping python scripts
-Hi, My name is Mrinal.
+This repository contains python scripts for web-scrapping using 'requests' and 'BeautifulSoup'.
